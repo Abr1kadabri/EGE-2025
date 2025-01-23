@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81f49083-d9b7-43d5-a130-d36994d67146" name="Changes" comment="Простейший калькулятор">
-      <change afterPath="$PROJECT_DIR$/20-01-25/LESSON-4.py" afterDir="false" />
+    <list default="true" id="81f49083-d9b7-43d5-a130-d36994d67146" name="Changes" comment="Ветвления, логические операции.">
+      <change afterPath="$PROJECT_DIR$/20-01-25/Lesson - 5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-01-25/Lesson - 5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-01-25/Lesson-5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-01-25/LESSON-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/20-01-25/LESSON-4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +53,7 @@
   "keyToString": {
     "Python.LESSON-1.executor": "Run",
     "Python.LESSON-4.executor": "Run",
+    "Python.Lesson - 5.2.executor": "Debug",
     "Python.lesson-2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -102,14 +106,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736790693489</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ветвления, логические операции.">
+      <option name="closed" value="true" />
+      <created>1737396514157</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737396514157</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Примеры преобразования типов." />
     <MESSAGE value="Простейший калькулятор" />
-    <option name="LAST_COMMIT_MESSAGE" value="Простейший калькулятор" />
+    <MESSAGE value="Ветвления, логические операции." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ветвления, логические операции." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
