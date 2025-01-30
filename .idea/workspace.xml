@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81f49083-d9b7-43d5-a130-d36994d67146" name="Changes" comment="Ветвления, логические операции.">
-      <change afterPath="$PROJECT_DIR$/20-01-25/Lesson - 5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-01-25/Lesson - 5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-01-25/Lesson-5.py" afterDir="false" />
+    <list default="true" id="81f49083-d9b7-43d5-a130-d36994d67146" name="Changes" comment=" логические операции">
+      <change afterPath="$PROJECT_DIR$/30-01-25/LESSON-7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30-01-25/LESSON-7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30-01-25/LESSON-7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-01-25/LESSON-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/20-01-25/LESSON-4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,9 @@
   "keyToString": {
     "Python.LESSON-1.executor": "Run",
     "Python.LESSON-4.executor": "Run",
-    "Python.Lesson - 5.2.executor": "Debug",
+    "Python.LESSON-7.1.executor": "Run",
+    "Python.LESSON-7.executor": "Run",
+    "Python.Lesson - 5.2.executor": "Run",
     "Python.lesson-2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -114,7 +115,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737396514157</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" логические операции">
+      <option name="closed" value="true" />
+      <created>1737654519076</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737654519076</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" логические операции">
+      <option name="closed" value="true" />
+      <created>1737654536580</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737654536580</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,7 +139,8 @@
     <MESSAGE value="Примеры преобразования типов." />
     <MESSAGE value="Простейший калькулятор" />
     <MESSAGE value="Ветвления, логические операции." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ветвления, логические операции." />
+    <MESSAGE value=" логические операции" />
+    <option name="LAST_COMMIT_MESSAGE" value=" логические операции" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
