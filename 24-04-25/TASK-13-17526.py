@@ -9,4 +9,3 @@ print(net.netmask)
 print(net.num_addresses)
 print(net.hosts)
 
-print(16384/2)
